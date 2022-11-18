@@ -1,6 +1,7 @@
 ﻿
 Module Ejercicio10
     Sub Main()
+
         'Declaracion de arreglos
         Dim nombres(2) As String
         Dim horas(2) As Integer
